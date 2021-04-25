@@ -10,7 +10,7 @@
   <br />
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="c" src="https://img.shields.io/badge/C-f34b7d?style=flat-square&logo=c%2b%2b">
+  <img alt="c" src="https://img.shields.io/badge/C-3dbaf4?style=flat-square&logo=c%2b%2b">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <br />  
   <br />
