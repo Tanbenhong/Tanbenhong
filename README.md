@@ -27,6 +27,5 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Tanbenhong&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbenhong&hide=html&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbenhong&layout=compact)](https://github.com/Tanbenhong/github-readme-stats)
  <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true) -->
