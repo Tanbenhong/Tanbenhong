@@ -26,6 +26,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="55" height="55" algin="right"/> 
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Tanbenhong&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=dracula&bg_color=50,754F44,EC7357)
+![](https://github-readme-stats.vercel.app/api?username=Tanbenhong&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=dracula&bg_color=25,f26d5b,f6ea8c)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbenhong&layout=compact)](https://github.com/Tanbenhong/github-readme-stats)
  <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true) -->
