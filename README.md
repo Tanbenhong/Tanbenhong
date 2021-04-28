@@ -22,7 +22,7 @@
   <br />  
   <br />
   <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="55" height="55" algin="right"/> 
-  <img style="float="left";" src="https://github.com/Tanbenhong/Tanbenhong/blob/main/gitMusic.gif" width="155" height="110" algin="right"/>
+  <img style="float="left";" src="https://github.com/Tanbenhong/Tanbenhong/blob/main/gitMusic.gif" width="172.5" height="141" algin="right"/>
   <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="55" height="55" algin="right"/> 
 </p>
 
